@@ -1,5 +1,5 @@
-# Electric System Demo
-An assignment demo of CMC for entry testing.
+# Mongo DB Net Core CRUD
+Build a simple CRUD with net core and mongo db
 ## Run The Project
 You will need the following tools:
 
